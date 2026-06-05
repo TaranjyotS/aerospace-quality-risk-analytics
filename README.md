@@ -473,6 +473,16 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 🎓 Academic Foundation
+
+This project originates from research and analysis conducted during the **Master of Engineering (Quality Systems Engineering)** program at **Concordia University**.
+
+The original work investigated the organizational, engineering, quality assurance, and risk management factors that contributed to the Boeing 737 MAX program challenges. The study applied industry-standard quality engineering methodologies including risk management, Earned Value Management (EVM), quality control planning, root-cause analysis, stakeholder management, and process improvement techniques.
+
+This repository modernizes that academic research into a **portfolio-grade Python analytics platform** featuring automated risk scoring, EVM performance analysis, quality-control metrics, interactive dashboards, REST APIs, testing, CI/CD, and containerization while preserving the original quality engineering objectives and analytical framework.
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is intended strictly for educational, portfolio, and quality-engineering demonstration purposes.
