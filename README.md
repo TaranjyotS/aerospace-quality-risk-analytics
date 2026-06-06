@@ -150,19 +150,19 @@ Containerization
 ### Dashboard Overview
 
 <p align="center">
-  <img src="docs/screenshots/dashboard-overview.png" width="95%"/>
+  <img src="docs/screenshots/dashboard-overview.png" width="45%"/>
 </p>
 
 ### EVM Performance Analysis
 
 <p align="center">
-  <img src="docs/screenshots/evm-performance-analysis.png" width="95%"/>
+  <img src="docs/screenshots/evm-performance-analysis.png" width="45%"/>
 </p>
 
 ### API Documentation
 
 <p align="center">
-  <img src="docs/screenshots/api-documentation.png" width="95%"/>
+  <img src="docs/screenshots/api-documentation.png" width="45%"/>
 </p>
 
 ---
